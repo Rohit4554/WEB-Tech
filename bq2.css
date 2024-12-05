@@ -1,0 +1,23 @@
+ul{
+ font-size : 30px;
+ color: red;
+}
+
+ol{
+ font-size: 15px;
+ color: aqua;
+}
+
+.flowering{
+ color:green;
+}
+
+.non-flowering{
+ color:yellow;
+}
+
+
+
+.square{
+ list-style-type: square;
+}
